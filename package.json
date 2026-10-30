@@ -1,0 +1,16 @@
+{
+  "name": "exp-9-react-express-cors",
+  "version": "1.0.0",
+  "description": "Lab Experiment 9: Connecting React Frontend to Express Backend using fetch() with CORS",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": ["react", "express", "cors", "fetch", "rest-api"],
+  "author": "",
+  "license": "ISC"
+}
+
